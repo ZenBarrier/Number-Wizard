@@ -45,8 +45,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-Temp/UnityTempFile-f6dbb720dc8c1ea4a884a0b303beb8c3
-Temp/UnityVS_obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-Temp/UnityLockfile
-Temp/UnityTempFile-59bd511f69e735d4094fec400436ada0
-Temp/UnityTempFile-74adb1df28d8e3542b5e46cea07f5614
+Temp/**
